@@ -17,7 +17,6 @@ import java.io.PrintWriter;
 import java.util.List;
 import java.util.ArrayList;
 
-
 /***************************************************************************************************
  * 
  * 
@@ -55,6 +54,9 @@ public class JSONInjection extends LessonAdapter
     private final static Integer DEFAULT_RANKING = new Integer(30);
 
     private final static String TRAVEL_FROM = "travelFrom";
+
+
+
 
     private final static String TRAVEL_TO = "travelTo";
 
